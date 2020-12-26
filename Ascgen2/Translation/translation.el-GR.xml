@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<data name="&amp;About">
+		<value>&amp;Σχετικά με εμάς</value>
+	</data>
+	<data name="&amp;Add File">
+		<value>&amp;Προσθήκη Αρχείου</value>
+	</data>
+	<data name="&amp;Cancel">
+		<value>&amp;Άκυρο</value>
+	</data>
+	<data name="&amp;Close">
+		<value>&amp;Κλείσιμο</value>
+	</data>
+	<data name="&amp;Convert">
+		<value>&amp;Μετατροπή</value>
+	</data>
+	<data name="&amp;Default">
+		<value>&amp;Προεπιλογή</value>
+	</data>
+	<data name="&amp;Donate">
+		<value>&amp;Δωρεά</value>
+	</data>
+	<data name="&amp;File">
+		<value>&amp;Αρχείο</value>
+	</data>
+	<data name="&amp;Full Screen">
+		<value>&amp;Πλήρης οθόνη</value>
+	</data>
+	<data name="&amp;Help">
+		<value>&amp;Βοήθεια</value>
+	</data>
+	<data name="&amp;Load Image">
+		<value>&amp;Φόρτωμα εικόνας</value>
+	</data>
+	<data name="&amp;Ok">
+		<value>&amp;Οκ</value>
+	</data>
+	<data name="&amp;Remove">
+		<value>&amp;Αφαίρεση</value>
+	</data>
+	<data name="&amp;Save">
+		<value>&amp;Αποθήκευση</value>
+	</data>
+	<data name="&amp;Settings">
+		<value>&amp;Ρυθμίσεις</value>
+	</data>
+	<data name="&amp;View">
+		<value>&amp;Προβολή</value>
+	</data>
+	<data name="{0:yyyyMMddHHmmss}">
+		<value>{0:yyyyMMddHHmmss}</value>
+	</data>
+	<data name="{0} file(s) converted, {1} error(s)">
+		<value>{0} αρχείο(α) μετατράπηκε(αν), {1} λάθος(η)</value>
+	</data>
+	<data name="Add &amp;Directory">
+		<value>Προσθήκη &amp;Καταλόγου</value>
+	</data>
+	<data name="Adjust Levels">
+		<value>Ρύθμιση επιπέδων</value>
+	</data>
+	<data name="All Files">
+		<value>Όλα τα αρχεία</value>
+	</data>
+	<data name="already exists">
+		<value>Υπάρχει ήδη</value>
+	</data>
+	<data name="ASCII Ramp">
+		<value>Ράμπα ASCII</value>
+	</data>
+	<data name="Auto">
+		<value>Αυτόματο</value>
+	</data>
+	<data name="automatically calculated">
+		<value>αυτομάτως υπολογίστηκε</value>
+	</data>
+	<data name="Batch Conversion">
+		<value>Batch Μετατροπή</value>
+	</data>
+	<data name="Batch conversion cancelled">
+		<value>Η μετατροπή Batch ακυρώθηκε</value>
+	</data>
+	<data name="Batch conversion started, {0} file(s) to process">
+		<value>Η μετατροπή Batch άρχισε, {0} αρχείο(α) στη διαδικασία</value>
+	</data>
+	<data name="Batch finished">
+		<value>Τέλος Batch</value>
+	</data>
+	<data name="Bitmap Images">
+		<value>Bitmap εικόνες</value>
+	</data>
+	<data name="Black and White">
+		<value>Μαύρο και Άσπρο</value>
+	</data>
+	<data name="Black Text on White">
+		<value>Μαύρο Κείμενο σε Άσπρο</value>
+	</data>
+	<data name="Black Text on White Background">
+		<value>Μαύρο Κείμενο σε Άσπρο Υπόβαθρο</value>
+	</data>
+	<data name="bold">
+		<value>έντονο</value>
+	</data>
+	<data name="Brightness">
+		<value>Φωτεινότητα</value>
+	</data>
+	<data name="British English">
+		<value>Αγγλικά Ην.Βασιλείου</value>
+	</data>
+	<data name="C&amp;lose">
+		<value>Κ&amp;λείσιμο</value>
+	</data>
+	<data name="Character Size">
+		<value>Μέγεθος Χαρακτήρα</value>
+	</data>
+	<data name="Characters">
+		<value>Χαρακτήρες</value>
+	</data>
+	<data name="Check for a New Version">
+		<value>Έλεγχος για μια Νέα Έκδοση</value>
+	</data>
+	<data name="Choose the Font">
+		<value>Επιλογή της Γραμματοσειράς</value>
+	</data>
+	<data name="Choose the Magnification Level">
+		<value>Επιλέξτε το Επίπεδο της Μεγένθυνσης </value>
+	</data>
+	<data name="Clear">
+		<value>Καθαρισμός</value>
+	</data>
+	<data name="Click and drag on an image to select an area">
+		<value>Κλίκ και σύρτε πάνω σε μια εικόνα για να επιλέξετε τη περιοχή</value>
+	</data>
+	<data name="Colour">
+		<value>Χρώμα</value>
+	</data>
+	<data name="Colour Preview">
+		<value>Προεπισκόπιση Χρώματος</value>
+	</data>
+	<data name="Colour Print Preview">
+		<value>Προεπισκόπιση Χρώματος Εκτύπωσης</value>
+	</data>
+	<data name="Confirm close if unsaved">
+		<value>Επικυρώστε το κλείσιμο αν δεν αποθηκευτεί</value>
+	</data>
+	<data name="Contrast">
+		<value>Κοντράστ</value>
+	</data>
+	<data name="Controls">
+		<value>Έλεγχοι</value>
+	</data>
+	<data name="Converting">
+		<value>Μετατροπή</value>
+	</data>
+	<data name="Copy">
+		<value>Αντιγραφή</value>
+	</data>
+	<data name="Copy Ramp to Clipboard">
+		<value>Αντιγραφή Ράμπας στο Clipboard</value>
+	</data>
+	<data name="Could not load translation file '{0}'">
+		<value>Δεν κατέσετει δυνατό το φόρτωμα του αρχείου μετάφρασης '{0}'</value>
+	</data>
+	<data name="Date/Time">
+		<value>Ημερομηνία/Ώρα</value>
+	</data>
+  <data name="DefaultWidth and/or DefaultHeight must be &gt; 0"> 		
+	<value>Προεπιλεγμένο Πλάτος και/ή Προεπιλεγμένο Ύψος πρέπει να είναι &gt; 0</value>
+</data>
+<data name="Dither">
+	<value>Χρωματική Αντιπαράθεση</value>
+</data>
+<data name="Dithering Amount">
+	<value>Ποσότητα Χρωματικής Αντιπαράθεσης</value>
+</data>
+<data name="Doubleclick to load an image, or drag and drop here.">
+	<value>Διπλό κλίκ για φόρτωμα της εικίνας, ή drag and drop εδώ.</value>
+</data>
+<data name="E&amp;xit">
+	<value>Έ&amp;ξοδος</value>
+</data>
+<data name="Edit">
+	<value>Επεξεργασία</value>
+</data>
+<data name="Edit Settings">
+	<value>Επεξεργασία Ρυθμίσεων</value>
+</data>
+<data name="Effects">
+	<value>Εφέ</value>
+</data>
+<data name="Enter the characters to be used for generating the ramp">
+	<value>Δώστε τους χαρακτήρες που θα χρησιμοποιηθούν για την δημιουργία της ράμπας</value>
+</data>
+<data name="Error">
+	<value>Λάθος</value>
+</data>
+<data name="Error converting the image">
+	<value>Λάθος κατά τη μετατροπή της εικόνας</value>
+</data>
+<data name="Error saving to {0}">
+	<value>Λάθος αποθήκευσης στο {0}</value>
+</data>
+<data name="Error with settings file '{0}'">
+	<value>Λάθος με το αρχείο ρυθμίσεων '{0}'</value>
+</data>
+<data name="Exchangeable Image Files">
+	<value>Ανταλλάξιμα αρχεία εικόνας</value>
+</data>
+<data name="File Not Found">
+	<value>Το αρχείο δεν βρέθηκε</value>
+</data>
+<data name="Files to be converted">
+	<value>Αρχεία προς μετατροπή</value>
+</data>
+<data name="Fill Selected Area">
+	<value>Συμπλήρωση επιλεγμένης περιοχής</value>
+</data>
+<data name="Flip Horizontally">
+	<value>Οριζόντια περιστροφή</value>
+</data>
+<data name="Flip Vertically">
+	<value>Κάθετη περιστροφή</value>
+</data>
+<data name="Flipped Horizontally">
+	<value>Οριζόντια περιστροφή εκτελείται</value>
+</data>
+<data name="Flipped Vertically">
+	<value>Κάθετη περιστροφή εκτελείται</value>
+</data>
+<data name="Font">
+	<value>Γραμματοσειρά</value>
+</data>
+<data name="Fonts">
+	<value>Γραμματοσειρές</value>
+</data>
+<data name="For The Best Effect This Text Should Be Readable">
+	<value>Για καλύτερο εφέ, αυτό το κείμενο πρέπει να είναι αναγνώσιμο</value>
+</data>
+<data name="Full Screen">
+	<value>Πλήρης Οθόνη</value>
+</data>
+<data name="Generated">
+	<value>Δημιουγήθηκε</value>
+</data>
+<data name="GIF Images">
+	<value>GIF Εικόνες</value>
+</data>
+<data name="I&amp;mport from Clipboard">
+	<value>Ε&amp;ισαγωγή από το Clipboard</value>
+</data>
+<data name="Image">
+	<value>Εικόνα</value>
+</data>
+<data name="Image Files">
+	<value>Αρχεία Εικόνων</value>
+</data>
+<data name="Input">
+	<value>Εισαγωγή</value>
+</data>
+<data name="Input Directory">
+	<value>Εισαγωγή καταλόγου</value>
+</data>
+<data name="Input Image">
+	<value>Εισαγωγή Εικόνας</value>
+</data>
+<data name="Input Text Sample">
+	<value>Εισαγωγή δοκιμαστικού κειμένου</value>
+</data>
+<data name="Invalid ASCII Ramp">
+	<value>Λάθος ASCII Ράμπα</value>
+</data>
+<data name="Invalid Directory">
+	<value>Λανθεμένος κατάλογος</value>
+</data>
+<data name="Invalid or unsupported file">
+	<value>Λανθεμένο ή μη υποστηρίξιμο αρχείο</value>
+</data>
+<data name="Invalid Output Directory">
+	<value>Λανθεμένος κατάλογος προορισμού</value>
+</data>
+<data name="Invalid Output Size">
+	<value>Λανθεμένο μέγεθος προορισμού</value>
+</data>
+<data name="Invalid settings file. Please delete it or save a new one">
+	<value>Λανθεμένες ρυθμίσεις αρχείου. Παρακαλούμε διαγράψτε ή αποθηκεύστε το σε ένα καινούργιο</value>
+</data>
+<data name="Invert Selection">
+	<value>Επιλογή αντιστροφής</value>
+</data>
+<data name="Invert the Output">
+	<value>Αντιστροφή του προορισμού</value>
+</data>
+<data name="italic">
+	<value>ιταλικά</value>
+</data>
+<data name="JPEG Images">
+	<value>Εικόνες JPEG</value>
+</data>
+<data name="Language">
+	<value>Γλώσσα</value>
+</data>
+<data name="Levels">
+	<value>Επίπεδα</value>
+</data>
+<data name="Levels Adjustment">
+	<value>Επίπεδα προσαρμογής</value>
+</data>
+<data name="Lock Selected Area">
+	<value>Κλείδωμα επιλεγμένης περιοχής</value>
+</data>
+<data name="Log">
+	<value>Καταγραφή</value>
+</data>
+<data name="Magnification">
+	<value>Μεγέθυνση</value>
+</data>
+<data name="Max">
+	<value>Max</value>
+</data>
+<data name="Maximum">
+	<value>Μέγιστο</value>
+</data>
+<data name="Med">
+	<value>Μ.Ο</value>
+</data>
+<data name="Median">
+	<value>Μέσος όρος</value>
+</data>
+<data name="Min">
+	<value>Min</value>
+</data>
+<data name="Minimum">
+	<value>Ελάχιστο</value>
+</data>
+<data name="New version check">
+	<value>Έλεγχος νέας έκδοσης</value>
+</data>
+<data name="None">
+	<value>Κανένα</value>
+</data>
+<data name="Open the download page">
+	<value>Άνοιξε τη σελίδα μεταφόρτωσης</value>
+</data>
+<data name="Out of Memory, Could not convert the image">
+	<value>Έξω απο τα όρια της μνήμης, αδύνατη η μετατροπή της εικόνας</value>
+</data>
+<data name="Output">
+	<value>Προορισμός</value>
+</data>
+<data name="Output as">
+	<value>Προορισμός σαν</value>
+</data>
+<data name="Output Directory">
+	<value>Προορισμός Καταλόγου</value>
+</data>
+<data name="Output Filenames">
+	<value>Προορισμός ονομάτων αρχείων</value>
+</data>
+<data name="Output Image Sample">
+	<value>Προορισμός δοκιμαστικής εικόνας</value>
+</data>
+<data name="Output Levels - Minimum: {0}, Median: {1}, Maximum: {2}">
+	<value>Επίπεδα προορισμού - Ελάχιστο: {0}, Μέσος Όρος: {1}, Μέγιστο: {2}</value>
+</data>
+<data name="Output Size">
+	<value>Μέγεθος Προορισμού</value>
+</data>
+<data name="Output Size: {0}x{1} characters">
+	<value>Μέγεθος Προορισμού : {0}x{1} χαρακτήρες</value>
+</data>
+<data name="Page Setup">
+	<value>Εγκατάσταση Σελίδας</value>
+</data>
+<data name="pixels">
+	<value>πίξελς</value>
+</data>
+<data name="Plain Text">
+	<value>Απλό Κείμενο</value>
+</data>
+<data name="Please enter an output directory">
+	<value>Παρακαλούμε δώστε έναν προορισμό καταλόγου</value>
+</data>
+<data name="Portable Network Graphics Images">
+	<value>Εικόνες PNG (Portable Network Graphics)</value>
+</data>
+<data name="Prefix">
+	<value>Πρεφίξ</value>
+</data>
+<data name="Print">
+	<value>Εκτύπωση</value>
+</data>
+<data name="Print Colour">
+	<value>Εκτύπωση χρώματος</value>
+</data>
+<data name="Print Error">
+	<value>Λάθος εκτύπωσης</value>
+</data>
+<data name="Print Preview">
+	<value>Προεπισκόπιση εκτύπωσης</value>
+</data>
+<data name="Ramp">
+	<value>Ράμπα</value>
+</data>
+<data name="Ramps">
+	<value>Ράμπες</value>
+</data>
+<data name="Random">
+	<value>Τυχαίο</value>
+</data>
+<data name="Remove All">
+	<value>Αφαίρεση Όλων</value>
+</data>
+<data name="Remove File After Conversion">
+	<value>Αφαίρεση αρχείου μετά τη μετατροπή</value>
+</data>
+<data name="Remove Selection">
+	<value>Αφαίρεση επιλογής</value>
+</data>
+<data name="Report a Bug">
+	<value>Αναφορά σφάλματος bug</value>
+</data>
+<data name="Request a Feature">
+	<value>Αίτηση ενσωμάτης ενός νέου χαρακτηριστικού</value>
+</data>
+<data name="Reset">
+	<value>Επαναφορά</value>
+</data>
+<data name="Rich Text">
+	<value>Εμπλουτισμένο κείμενο (RTF)</value>
+</data>
+<data name="Rotate">
+	<value>Περιστροφή</value>
+</data>
+<data name="Rotate Clockwise">
+	<value>Δεξίοστροφη περιστροφή</value>
+</data>
+<data name="Rotate Anticlockwise">
+	<value>Αριστερόστροφη περιστροφή</value>
+</data>
+<data name="Save">
+	<value>Αποθήκευση</value>
+</data>
+<data name="Save As">
+	<value>Αποθήκευση ώς</value>
+</data>
+<data name="Save Log As">
+	<value>Αποθήκευση αρχείου καταγραφής ώς</value>
+</data>
+<data name="Save the output before closing">
+	<value>Αποθήκευση προορισμού πρίν το κλείσιμο</value>
+</data>
+<data name="Save to a Text File">
+	<value>Αποθήκευση σε ένα αρχείο κειμένου</value>
+</data>
+<data name="saved">
+	<value>αποθηκεύθηκε</value>
+</data>
+<data name="Saving">
+	<value>Αποθηκεύεται</value>
+</data>
+<data name="Saving output as">
+	<value>Αποθήκευση προορισμού ως</value>
+</data>
+<data name="Select a directory from which to import image files">
+	<value>Επιλογή ενός καταλόγου απο τον οποίο θα γίνει εισαγωγή των αρχείων εικόνας</value>
+</data>
+<data name="Select All">
+	<value>Επιλογή όλων</value>
+</data>
+<data name="Select None">
+	<value>Επιλογή κανενός</value>
+</data>
+<data name="Select the directory in which to save the converted images">
+	<value>Επιλέξτε τον κατάλογο στον οποίο θα γίνει η αποθήκευση των εικόνων</value>
+</data>
+<data name="Selection Area Border Colour">
+	<value>Επιλογή περιοχής ορίων χρώματος</value>
+</data>
+<data name="Selection Area Fill Colour">
+	<value>Επιλογή περιοχής επικάλυψης χρώματος</value>
+</data>
+<data name="Sharpen">
+	<value>Όξυνση</value>
+</data>
+<data name="Sharpened">
+	<value>Οξύνθηκε</value>
+</data>
+<data name="Sharpening Mask">
+	<value>Μάσκα όξυνσηςt</value>
+</data>
+<data name="Sharpening Method">
+	<value>Μέθοδος οξύνσεως</value>
+</data>
+<data name="Show Extension">
+	<value>Εμφάνιση επεκτάσεων</value>
+</data>
+<data name="Show Full Path">
+	<value>Εμάνηση πλήρως μονοπατιού</value>
+</data>
+<data name="shrunk to {0}%">
+	<value>μείωση στο {0}%</value>
+</data>
+<data name="Size">
+	<value>Μέγεθος</value>
+</data>
+<data name="Some characters may not make it in to the ramp">
+	<value>Μερικοί από τους χαρακτήρες ίσως δεν τα καταφέρουν να εσνωματωθούν στη ράμπα</value>
+</data>
+<data name="Specify Character Size">
+	<value>Ορισμός μεγέθους χαρακτήρα</value>
+</data>
+<data name="Stretch">
+	<value>Τέντωμα</value>
+</data>
+<data name="Stretched">
+	<value>Τεντώθηκε</value>
+</data>
+<data name="strikeout">
+	<value>Επιγράμμιση</value>
+</data>
+<data name="Suffix">
+	<value>Κατάληξη</value>
+</data>
+<data name="Target Character Size: {0}x{1} pixels{2}">
+	<value>Εντοπισμός μεγέθους χαρακτήρα : {0}x{1} pixels{2}</value>
+</data>
+<data name="Target Font: {0} {1}pt{2}{3}{4}{5}">
+	<value>Εντοπισμός Γραμματοσειράς : {0} {1}pt{2}{3}{4}{5}</value>
+</data>
+<data name="Text">
+	<value>Κείμενο</value>
+</data>
+<data name="Text Brightness: {0}, Text Contrast: {1}">
+	<value>Φωτεινότητα κειμένου : {0}, Κοντράστ κειμένου : {1}</value>
+</data>
+<data name="Text Settings">
+	<value>Ρυμίσεις κειμένου</value>
+</data>
+<data name="This is the latest version">
+	<value>Αυτή εδώ είναι η τελευταία έκδοση</value>
+</data>
+<data name="TIF Images">
+	<value>Εικόνες TIF</value>
+</data>
+<data name="Tutorials">
+	<value>Βοηθήματα</value>
+</data>
+<data name="Unable to select this font">
+	<value>Αδυναμία επιλογής της συγκεκριμένης γραμματοσειράς</value>
+</data>
+<data name="underline">
+	<value>υπογράμμιση</value>
+</data>
+<data name="Unknown or Unsupported File">
+	<value>Άγνωστο ή μη υποστηρίξιμο αρχείο</value>
+</data>
+<data name="Update while Selection Changes">
+	<value>Ενημέρωση καθώς η επιλογή αλλάζει</value>
+</data>
+<data name="Unsharp Mask">
+	<value>Αποτονισμός</value>
+</data>
+<data name="Valid Characters">
+	<value>Έγκυροι χαρακτήρες</value>
+</data>
+<data name="Version">
+	<value>Έκδοση</value>
+</data>
+<data name="Version {0} is available">
+	<value>Η έκδοση {0} είναι διαθέσιμη</value>
+</data>
+<data name="Warning">
+	<value>Προειδοποίηση</value>
+</data>
+<data name="White Text on Black Background">
+	<value>Άσπρο κείμενο και μαύρο υπόβαθρο</value>
+</data>
+<data name="Windows Metafile Images">
+	<value>Εικόνες Windows Metafile</value>
+</data>
+<data name="Zoom In">
+	<value>Μεγέθυνση</value>
+</data>
+<data name="Zoom Out">
+	<value>Σμύκρινση</value>
+</data>
+</root>

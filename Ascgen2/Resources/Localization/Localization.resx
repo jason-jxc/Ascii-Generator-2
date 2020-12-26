@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Unknown or Unsupported File" xml:space="preserve">
+    <value>Unknown or Unsupported File</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="Invalid Output Size" xml:space="preserve">
+    <value>Invalid Output Size</value>
+  </data>
+  <data name="pixels" xml:space="preserve">
+    <value>pixels</value>
+  </data>
+  <data name="Size" xml:space="preserve">
+    <value>Size</value>
+  </data>
+  <data name="Stretch" xml:space="preserve">
+    <value>Stretch</value>
+  </data>
+  <data name="Image Files" xml:space="preserve">
+    <value>Image Files</value>
+  </data>
+  <data name="Bitmap Images" xml:space="preserve">
+    <value>Bitmap Images</value>
+  </data>
+  <data name="Exchangeable Image Files" xml:space="preserve">
+    <value>Exchangeable Image Files</value>
+  </data>
+  <data name="GIF Images" xml:space="preserve">
+    <value>GIF Images</value>
+  </data>
+  <data name="JPEG Images" xml:space="preserve">
+    <value>JPEG Images</value>
+  </data>
+  <data name="Portable Network Graphics Images" xml:space="preserve">
+    <value>Portable Network Graphics Images</value>
+  </data>
+  <data name="TIF Images" xml:space="preserve">
+    <value>TIF Images</value>
+  </data>
+  <data name="Windows Metafile Images" xml:space="preserve">
+    <value>Windows Metafile Images</value>
+  </data>
+  <data name="All Files" xml:space="preserve">
+    <value>All Files</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Save to a Text File" xml:space="preserve">
+    <value>Save to a Text File</value>
+  </data>
+  <data name="&amp;File" xml:space="preserve">
+    <value>&amp;File</value>
+  </data>
+  <data name="E&amp;xit" xml:space="preserve">
+    <value>E&amp;xit</value>
+  </data>
+  <data name="&amp;Help" xml:space="preserve">
+    <value>&amp;Help</value>
+  </data>
+  <data name="&amp;About" xml:space="preserve">
+    <value>&amp;About</value>
+  </data>
+  <data name="&amp;Save" xml:space="preserve">
+    <value>&amp;Save</value>
+  </data>
+  <data name="&amp;Load Image" xml:space="preserve">
+    <value>&amp;Load Image</value>
+  </data>
+  <data name="Sharpening Mask" xml:space="preserve">
+    <value>Sharpening Mask</value>
+  </data>
+  <data name="Unsharp Mask" xml:space="preserve">
+    <value>Unsharp Mask</value>
+  </data>
+  <data name="Input Text Sample" xml:space="preserve">
+    <value>Input Text Sample</value>
+  </data>
+  <data name="Magnification" xml:space="preserve">
+    <value>Magnification</value>
+  </data>
+  <data name="Output Image Sample" xml:space="preserve">
+    <value>Output Image Sample</value>
+  </data>
+  <data name="&amp;Ok" xml:space="preserve">
+    <value>&amp;Ok</value>
+  </data>
+  <data name="&amp;Cancel" xml:space="preserve">
+    <value>&amp;Cancel</value>
+  </data>
+  <data name="For The Best Effect This Text Should Be Readable" xml:space="preserve">
+    <value>For The Best Effect This Text Should Be Readable</value>
+  </data>
+  <data name="Image" xml:space="preserve">
+    <value>Image</value>
+  </data>
+  <data name="Text" xml:space="preserve">
+    <value>Text</value>
+  </data>
+  <data name="Doubleclick to load an image, or drag and drop here." xml:space="preserve">
+    <value>Doubleclick to load an image, or drag and drop here.</value>
+  </data>
+  <data name="Brightness" xml:space="preserve">
+    <value>Brightness</value>
+  </data>
+  <data name="Contrast" xml:space="preserve">
+    <value>Contrast</value>
+  </data>
+  <data name="Version" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="Choose the Magnification Level" xml:space="preserve">
+    <value>Choose the Magnification Level</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>Copy</value>
+  </data>
+  <data name="Select All" xml:space="preserve">
+    <value>Select All</value>
+  </data>
+  <data name="Select None" xml:space="preserve">
+    <value>Select None</value>
+  </data>
+  <data name="Sharpening Method" xml:space="preserve">
+    <value>Sharpening Method</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="File Not Found" xml:space="preserve">
+    <value>File Not Found</value>
+  </data>
+  <data name="Out of Memory, Could not convert the image" xml:space="preserve">
+    <value>Out of Memory, Could not convert the image</value>
+  </data>
+  <data name="Click and drag on an image to select an area" xml:space="preserve">
+    <value>Click and drag on an image to select an area</value>
+  </data>
+  <data name="Remove Selection" xml:space="preserve">
+    <value>Remove Selection</value>
+  </data>
+  <data name="Lock Selected Area" xml:space="preserve">
+    <value>Lock Selected Area</value>
+  </data>
+  <data name="&amp;View" xml:space="preserve">
+    <value>&amp;View</value>
+  </data>
+  <data name="Controls" xml:space="preserve">
+    <value>Controls</value>
+  </data>
+  <data name="Ramp" xml:space="preserve">
+    <value>Ramp</value>
+  </data>
+  <data name="&amp;Close" xml:space="preserve">
+    <value>&amp;Close</value>
+  </data>
+  <data name="Font" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="&amp;Full Screen" xml:space="preserve">
+    <value>&amp;Full Screen</value>
+  </data>
+  <data name="Invalid ASCII Ramp" xml:space="preserve">
+    <value>Invalid ASCII Ramp</value>
+  </data>
+  <data name="Fill Selected Area" xml:space="preserve">
+    <value>Fill Selected Area</value>
+  </data>
+  <data name="Auto" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="Valid Characters" xml:space="preserve">
+    <value>Valid Characters</value>
+  </data>
+  <data name="&amp;Default" xml:space="preserve">
+    <value>&amp;Default</value>
+  </data>
+  <data name="Enter the characters to be used for generating the ramp" xml:space="preserve">
+    <value>Enter the characters to be used for generating the ramp</value>
+  </data>
+  <data name="Some characters may not make it in to the ramp" xml:space="preserve">
+    <value>Some characters may not make it in to the ramp</value>
+  </data>
+  <data name="I&amp;mport from Clipboard" xml:space="preserve">
+    <value>I&amp;mport from Clipboard</value>
+  </data>
+  <data name="Flip Horizontally" xml:space="preserve">
+    <value>Flip Horizontally</value>
+  </data>
+  <data name="Flip Vertically" xml:space="preserve">
+    <value>Flip Vertically</value>
+  </data>
+  <data name="Batch Conversion" xml:space="preserve">
+    <value>Batch Conversion</value>
+  </data>
+  <data name="Add File" xml:space="preserve">
+    <value>Add File</value>
+  </data>
+  <data name="Remove" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="Add Directory" xml:space="preserve">
+    <value>Add Directory</value>
+  </data>
+  <data name="Output Size" xml:space="preserve">
+    <value>Output Size</value>
+  </data>
+  <data name="&amp;Settings" xml:space="preserve">
+    <value>&amp;Settings</value>
+  </data>
+  <data name="Files to be converted" xml:space="preserve">
+    <value>Files to be converted</value>
+  </data>
+  <data name="Output Directory" xml:space="preserve">
+    <value>Output Directory</value>
+  </data>
+  <data name="&amp;Convert" xml:space="preserve">
+    <value>&amp;Convert</value>
+  </data>
+  <data name="C&amp;lose" xml:space="preserve">
+    <value>C&amp;lose</value>
+  </data>
+  <data name="Please enter an output directory" xml:space="preserve">
+    <value>Please enter an output directory</value>
+  </data>
+  <data name="Invalid Output Directory" xml:space="preserve">
+    <value>Invalid Output Directory</value>
+  </data>
+  <data name="Select the directory in which to save the converted images" xml:space="preserve">
+    <value>Select the directory in which to save the converted images</value>
+  </data>
+  <data name="Select a directory from which to import image files" xml:space="preserve">
+    <value>Select a directory from which to import image files</value>
+  </data>
+  <data name="Invert Selection" xml:space="preserve">
+    <value>Invert Selection</value>
+  </data>
+  <data name="Show Full Path" xml:space="preserve">
+    <value>Show Full Path</value>
+  </data>
+  <data name="Show Extension" xml:space="preserve">
+    <value>Show Extension</value>
+  </data>
+  <data name="Clear" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="Save As" xml:space="preserve">
+    <value>Save As</value>
+  </data>
+  <data name="Remove All" xml:space="preserve">
+    <value>Remove All</value>
+  </data>
+  <data name="Text Settings" xml:space="preserve">
+    <value>Text Settings</value>
+  </data>
+  <data name="Sharpen" xml:space="preserve">
+    <value>Sharpen</value>
+  </data>
+  <data name="Black Text on White" xml:space="preserve">
+    <value>Black Text on White</value>
+  </data>
+  <data name="Output Filenames" xml:space="preserve">
+    <value>Output Filenames</value>
+  </data>
+  <data name="Prefix" xml:space="preserve">
+    <value>Prefix</value>
+  </data>
+  <data name="Suffix" xml:space="preserve">
+    <value>Suffix</value>
+  </data>
+  <data name="Save Log As" xml:space="preserve">
+    <value>Save Log As</value>
+  </data>
+  <data name="Remove File After Conversion" xml:space="preserve">
+    <value>Remove File After Conversion</value>
+  </data>
+  <data name="Output as" xml:space="preserve">
+    <value>Output as</value>
+  </data>
+  <data name="Random" xml:space="preserve">
+    <value>Random</value>
+  </data>
+  <data name="Date/Time" xml:space="preserve">
+    <value>Date/Time</value>
+  </data>
+  <data name="Character Size" xml:space="preserve">
+    <value>Character Size</value>
+  </data>
+  <data name="Specify Character Size" xml:space="preserve">
+    <value>Specify Character Size</value>
+  </data>
+  <data name="Adjust Levels" xml:space="preserve">
+    <value>Adjust Levels</value>
+  </data>
+  <data name="Levels Adjustment" xml:space="preserve">
+    <value>Levels Adjustment</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>Minimum</value>
+  </data>
+  <data name="Median" xml:space="preserve">
+    <value>Median</value>
+  </data>
+  <data name="Maximum" xml:space="preserve">
+    <value>Maximum</value>
+  </data>
+  <data name="Min" xml:space="preserve">
+    <value>Min</value>
+  </data>
+  <data name="Med" xml:space="preserve">
+    <value>Med</value>
+  </data>
+  <data name="Max" xml:space="preserve">
+    <value>Max</value>
+  </data>
+  <data name="Levels" xml:space="preserve">
+    <value>Levels</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="Output" xml:space="preserve">
+    <value>Output</value>
+  </data>
+  <data name="DefaultWidth and/or DefaultHeight must be &gt; 0" xml:space="preserve">
+    <value>DefaultWidth and/or DefaultHeight must be &gt; 0</value>
+  </data>
+  <data name="Invalid settings file. Please delete it or save a new one" xml:space="preserve">
+    <value>Invalid settings file. Please delete it or save a new one</value>
+  </data>
+  <data name="Characters" xml:space="preserve">
+    <value>Characters</value>
+  </data>
+  <data name="Unable to select this font" xml:space="preserve">
+    <value>Unable to select this font</value>
+  </data>
+  <data name="Selection Area Fill Colour" xml:space="preserve">
+    <value>Selection Area Fill Colour</value>
+  </data>
+  <data name="Selection Area Border Colour" xml:space="preserve">
+    <value>Selection Area Border Colour</value>
+  </data>
+  <data name="Save the output before closing" xml:space="preserve">
+    <value>Save the output before closing</value>
+  </data>
+  <data name="&amp;Donate" xml:space="preserve">
+    <value>&amp;Donate</value>
+  </data>
+  <data name="Report a Bug" xml:space="preserve">
+    <value>Report a Bug</value>
+  </data>
+  <data name="Plain Text" xml:space="preserve">
+    <value>Plain Text</value>
+  </data>
+  <data name="Rich Text" xml:space="preserve">
+    <value>Rich Text</value>
+  </data>
+  <data name="Request a Feature" xml:space="preserve">
+    <value>Request a Feature</value>
+  </data>
+  <data name="Version {0} is available" xml:space="preserve">
+    <value>Version {0} is available</value>
+  </data>
+  <data name="Open the download page" xml:space="preserve">
+    <value>Open the download page</value>
+  </data>
+  <data name="Copy Ramp to Clipboard" xml:space="preserve">
+    <value>Copy Ramp to Clipboard</value>
+  </data>
+  <data name="Ramps" xml:space="preserve">
+    <value>Ramps</value>
+  </data>
+  <data name="Fonts" xml:space="preserve">
+    <value>Fonts</value>
+  </data>
+  <data name="Page Setup" xml:space="preserve">
+    <value>Page Setup</value>
+  </data>
+  <data name="Print" xml:space="preserve">
+    <value>Print</value>
+  </data>
+  <data name="Print Preview" xml:space="preserve">
+    <value>Print Preview</value>
+  </data>
+  <data name="Print Error" xml:space="preserve">
+    <value>Print Error</value>
+  </data>
+  <data name="Rotate" xml:space="preserve">
+    <value>Rotate</value>
+  </data>
+  <data name="Input" xml:space="preserve">
+    <value>Input</value>
+  </data>
+  <data name="Choose the Font" xml:space="preserve">
+    <value>Choose the Font</value>
+  </data>
+  <data name="Full Screen" xml:space="preserve">
+    <value>Full Screen</value>
+  </data>
+  <data name="Input Image" xml:space="preserve">
+    <value>Input Image</value>
+  </data>
+  <data name="Invert the Output" xml:space="preserve">
+    <value>Invert the Output</value>
+  </data>
+  <data name="Tutorials" xml:space="preserve">
+    <value>Tutorials</value>
+  </data>
+  <data name="Print Colour" xml:space="preserve">
+    <value>Print Colour</value>
+  </data>
+  <data name="Colour Print Preview" xml:space="preserve">
+    <value>Colour Print Preview</value>
+  </data>
+  <data name="British English" xml:space="preserve">
+    <value>British English</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Confirm close if unsaved" xml:space="preserve">
+    <value>Confirm close if unsaved</value>
+  </data>
+  <data name="Edit Settings" xml:space="preserve">
+    <value>Edit Settings</value>
+  </data>
+  <data name="Input Directory" xml:space="preserve">
+    <value>Input Directory</value>
+  </data>
+  <data name="New version check" xml:space="preserve">
+    <value>New version check</value>
+  </data>
+  <data name="{0:yyyyMMddHHmmss}" xml:space="preserve">
+    <value>{0:yyyyMMddHHmmss}</value>
+  </data>
+  <data name="{0} file(s) converted, {1} error(s)" xml:space="preserve">
+    <value>{0} file(s) converted, {1} error(s)</value>
+  </data>
+  <data name="already exists" xml:space="preserve">
+    <value>already exists</value>
+  </data>
+  <data name="ASCII Ramp" xml:space="preserve">
+    <value>ASCII Ramp</value>
+  </data>
+  <data name="automatically calculated" xml:space="preserve">
+    <value>automatically calculated</value>
+  </data>
+  <data name="Batch conversion cancelled" xml:space="preserve">
+    <value>Batch conversion cancelled</value>
+  </data>
+  <data name="Batch conversion started, {0} file(s) to process" xml:space="preserve">
+    <value>Batch conversion started, {0} file(s) to process</value>
+  </data>
+  <data name="Batch finished" xml:space="preserve">
+    <value>Batch finished</value>
+  </data>
+  <data name="Black Text on White Background" xml:space="preserve">
+    <value>Black Text on White Background</value>
+  </data>
+  <data name="bold" xml:space="preserve">
+    <value>bold</value>
+  </data>
+  <data name="Converting" xml:space="preserve">
+    <value>Converting</value>
+  </data>
+  <data name="Effects" xml:space="preserve">
+    <value>Effects</value>
+  </data>
+  <data name="Error converting the image" xml:space="preserve">
+    <value>Error converting the image</value>
+  </data>
+  <data name="Error saving to {0}" xml:space="preserve">
+    <value>Error saving to {0}</value>
+  </data>
+  <data name="Flipped Horizontally" xml:space="preserve">
+    <value>Flipped Horizontally</value>
+  </data>
+  <data name="Flipped Vertically" xml:space="preserve">
+    <value>Flipped Vertically</value>
+  </data>
+  <data name="Generated" xml:space="preserve">
+    <value>Generated</value>
+  </data>
+  <data name="Invalid or unsupported file" xml:space="preserve">
+    <value>Invalid or unsupported file</value>
+  </data>
+  <data name="italic" xml:space="preserve">
+    <value>italic</value>
+  </data>
+  <data name="Log" xml:space="preserve">
+    <value>Log</value>
+  </data>
+  <data name="Output Levels - Minimum: {0}, Median: {1}, Maximum: {2}" xml:space="preserve">
+    <value>Output Levels - Minimum: {0}, Median: {1}, Maximum: {2}</value>
+  </data>
+  <data name="Output Size: {0}x{1} characters" xml:space="preserve">
+    <value>Output Size: {0}x{1} characters</value>
+  </data>
+  <data name="saved" xml:space="preserve">
+    <value>saved</value>
+  </data>
+  <data name="Saving" xml:space="preserve">
+    <value>Saving</value>
+  </data>
+  <data name="Saving output as" xml:space="preserve">
+    <value>Saving output as</value>
+  </data>
+  <data name="Sharpened" xml:space="preserve">
+    <value>Sharpened</value>
+  </data>
+  <data name="shrunk to {0}%" xml:space="preserve">
+    <value>shrunk to {0}%</value>
+  </data>
+  <data name="Stretched" xml:space="preserve">
+    <value>Stretched</value>
+  </data>
+  <data name="strikeout" xml:space="preserve">
+    <value>strikeout</value>
+  </data>
+  <data name="Target Character Size: {0}x{1} pixels{2}" xml:space="preserve">
+    <value>Target Character Size: {0}x{1} pixels{2}</value>
+  </data>
+  <data name="Target Font: {0} {1}pt{2}{3}{4}{5}" xml:space="preserve">
+    <value>Target Font: {0} {1}pt{2}{3}{4}{5}</value>
+  </data>
+  <data name="Text Brightness: {0}, Text Contrast: {1}" xml:space="preserve">
+    <value>Text Brightness: {0}, Text Contrast: {1}</value>
+  </data>
+  <data name="underline" xml:space="preserve">
+    <value>underline</value>
+  </data>
+  <data name="White Text on Black Background" xml:space="preserve">
+    <value>White Text on Black Background</value>
+  </data>
+  <data name="Could not load translation file '{0}'" xml:space="preserve">
+    <value>Could not load translation file '{0}'</value>
+  </data>
+  <data name="Error with settings file '{0}'" xml:space="preserve">
+    <value>Error with settings file '{0}'</value>
+  </data>
+  <data name="Black and White" xml:space="preserve">
+    <value>Black and White</value>
+  </data>
+  <data name="Colour" xml:space="preserve">
+    <value>Colour</value>
+  </data>
+  <data name="Check for a New Version" xml:space="preserve">
+    <value>Check for a New Version</value>
+  </data>
+  <data name="This is the latest version" xml:space="preserve">
+    <value>This is the latest version</value>
+  </data>
+  <data name="Invalid Directory" xml:space="preserve">
+    <value>Invalid Directory</value>
+  </data>
+  <data name="Rotate Anticlockwise" xml:space="preserve">
+    <value>Rotate Anticlockwise</value>
+  </data>
+  <data name="Rotate Clockwise" xml:space="preserve">
+    <value>Rotate Clockwise</value>
+  </data>
+  <data name="Dither" xml:space="preserve">
+    <value>Dither</value>
+  </data>
+  <data name="Dithering Amount" xml:space="preserve">
+    <value>Dithering Amount</value>
+  </data>
+  <data name="Colour Preview" xml:space="preserve">
+    <value>Colour Preview</value>
+  </data>
+  <data name="Zoom In" xml:space="preserve">
+    <value>Zoom In</value>
+  </data>
+  <data name="Zoom Out" xml:space="preserve">
+    <value>Zoom Out</value>
+  </data>
+  <data name="Show Log" xml:space="preserve">
+    <value>Show Log</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Warning</value>
+  </data>
+  <data name="Advanced" xml:space="preserve">
+    <value>Advanced</value>
+  </data>
+</root>

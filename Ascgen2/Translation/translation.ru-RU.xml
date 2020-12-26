@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<data name="&amp;About">
+		<value>&amp;О программе</value>
+	</data>
+	<data name="&amp;Add File">
+		<value>&amp;+ Файл</value>
+	</data>
+	<data name="&amp;Cancel">
+		<value>&amp;Отмена</value>
+	</data>
+	<data name="&amp;Close">
+		<value>За&amp;крыть</value>
+	</data>
+	<data name="&amp;Convert">
+		<value>&amp;Преобр.</value>
+	</data>
+	<data name="&amp;Default">
+		<value>&amp;Стандартно</value>
+	</data>
+	<data name="&amp;Donate">
+		<value>По&amp;жертвование</value>
+	</data>
+	<data name="&amp;File">
+		<value>&amp;Файл</value>
+	</data>
+	<data name="&amp;Full Screen">
+		<value>&amp;На весь экран</value>
+	</data>
+	<data name="&amp;Help">
+		<value>&amp;Справка</value>
+	</data>
+	<data name="&amp;Load Image">
+		<value>За&amp;грузить изображение</value>
+	</data>
+	<data name="&amp;Ok">
+		<value>&amp;ОК</value>
+	</data>
+	<data name="&amp;Remove">
+		<value>&amp;Удалить</value>
+	</data>
+	<data name="&amp;Save">
+		<value>&amp;Сохранить</value>
+	</data>
+	<data name="&amp;Settings">
+		<value>&amp;Опции</value>
+	</data>
+	<data name="&amp;View">
+		<value>&amp;Вид</value>
+	</data>
+	<data name="{0:yyyyMMddHHmmss}">
+		<value>{0:yyyyMMddHHmmss}</value>
+	</data>
+	<data name="{0} file(s) converted, {1} error(s)">
+		<value>Преобразовано {0} файл(ов), в {1} ошибка(и)</value>
+	</data>
+	<data name="Add &amp;Directory">
+		<value>+ &amp;Папку</value>
+	</data>
+	<data name="Adjust Levels">
+		<value>Регулировать уровни</value>
+	</data>
+	<data name="All Files">
+		<value>Все файлы</value>
+	</data>
+	<data name="already exists">
+		<value>уже существует</value>
+	</data>
+	<data name="ASCII Ramp">
+		<value>Набор ASCII</value>
+	</data>
+	<data name="Auto">
+		<value>Авто</value>
+	</data>
+	<data name="automatically calculated">
+		<value>автоматически обсчитанный</value>
+	</data>
+	<data name="Batch Conversion">
+		<value>Пакетное превращение</value>
+	</data>
+	<data name="Batch conversion cancelled">
+		<value>Пакетное превращение отменено</value>
+	</data>
+	<data name="Batch conversion started, {0} file(s) to process">
+		<value>Пакетное превращение длится, {0} файл(ов) обрабатывается(ются)</value>
+	</data>
+	<data name="Batch finished">
+		<value>Пакет сформирован</value>
+	</data>
+	<data name="Bitmap Images">
+		<value>Изображение Bitmap</value>
+	</data>
+	<data name="Black and White">
+		<value>Черно-белый</value>
+	</data>
+	<data name="Black Text on White">
+		<value>Черным по белому</value>
+	</data>
+	<data name="Black Text on White Background">
+		<value>Черный текст на белом фоне</value>
+	</data>
+	<data name="bold">
+		<value>жирный</value>
+	</data>
+	<data name="Brightness">
+		<value>Яркость</value>
+	</data>
+	<data name="British English">
+		<value>Русский</value>
+	</data>
+	<data name="C&amp;lose">
+		<value>З&amp;акрыть</value>
+	</data>
+	<data name="Character Size">
+		<value>Размер символа</value>
+	</data>
+	<data name="Characters">
+		<value>Символы</value>
+	</data>
+	<data name="Check for a New Version">
+		<value>Проверить наличие обновления</value>
+	</data>
+	<data name="Choose the Font">
+		<value>Выбор шрифта</value>
+	</data>
+	<data name="Choose the Magnification Level">
+		<value>Выбор уровня увеличения</value>
+	</data>
+	<data name="Clear">
+		<value>Очистить</value>
+	</data>
+	<data name="Click and drag on an image to select an area">
+		<value>Для выбора участка щелкните левой и двигайте мышь.</value>
+	</data>
+	<data name="Colour">
+		<value>Цветной</value>
+	</data>
+	<data name="Colour Preview">
+		<value>Просмотр цвета</value>
+	</data>
+	<data name="Colour Print Preview">
+		<value>Пересмотр цветной печати</value>
+	</data>
+	<data name="Confirm close if unsaved">
+		<value>Подтверждение при выходе</value>
+	</data>
+	<data name="Contrast">
+		<value>Контраст</value>
+	</data>
+	<data name="Controls">
+		<value>Управление</value>
+	</data>
+	<data name="Converting">
+		<value>Превращение</value>
+	</data>
+	<data name="Copy">
+		<value>Копировать</value>
+	</data>
+	<data name="Copy Ramp to Clipboard">
+		<value>Копировать набор в Буфер обмена</value>
+	</data>
+	<data name="Could not load translation file '{0}'">
+		<value>Не удалось загрузить файл перевода '{0}'</value>
+	</data>
+	<data name="Date/Time">
+		<value>Дата и время</value>
+	</data>
+	<data name="DefaultWidth and/or DefaultHeight must be > 0">
+		<value>Стандартные высота и/или ширина должны быть > 0</value>
+	</data>
+	<data name="Dither">
+		<value>Дрожь</value>
+	</data>
+	<data name="Dithering Amount">
+		<value>К-во дрожи</value>
+	</data>
+	<data name="Doubleclick to load an image, or drag and drop here.">
+		<value>Для открытия изображения дважды щелкните левой, или перетяните изображение на эту панель.</value>
+	</data>
+	<data name="E&amp;xit">
+		<value>В&amp;ыход</value>
+	</data>
+	<data name="Edit">
+		<value>Правка</value>
+	</data>
+	<data name="Edit Settings">
+		<value>Изменить параметры</value>
+	</data>
+	<data name="Effects">
+		<value>Эффекты</value>
+	</data>
+	<data name="Enter the characters to be used for generating the ramp">
+		<value>Символы, которые будут использоваться в наборе</value>
+	</data>
+	<data name="Error">
+		<value>Ошибка</value>
+	</data>
+	<data name="Error converting the image">
+		<value>Ошибка превращения изображения</value>
+	</data>
+	<data name="Error saving to {0}">
+		<value>Не удалось сохранить в {0}</value>
+	</data>
+	<data name="Error with settings file '{0}'">
+		<value>Ошибка в файле настроек: '{0}'</value>
+	</data>
+	<data name="Exchangeable Image Files">
+		<value>Изображение EIF</value>
+	</data>
+	<data name="File Not Found">
+		<value>Файл не найден</value>
+	</data>
+	<data name="Files to be converted">
+		<value>Файлы для превращения</value>
+	</data>
+	<data name="Fill Selected Area">
+		<value>Заполнить выбранный участок</value>
+	</data>
+	<data name="Flip Horizontally">
+		<value>Отразить горизонтально</value>
+	</data>
+	<data name="Flip Vertically">
+		<value>Отразить вертикально</value>
+	</data>
+	<data name="Flipped Horizontally">
+		<value>Горизонтальное отражение</value>
+	</data>
+	<data name="Flipped Vertically">
+		<value>Вертикальное отражение</value>
+	</data>
+	<data name="Font">
+		<value>Шрифт</value>
+	</data>
+	<data name="Fonts">
+		<value>Шрифты</value>
+	</data>
+	<data name="For The Best Effect This Text Should Be Readable">
+		<value>Для наилучшего эффекта этот текст должен читаться</value>
+	</data>
+	<data name="Full Screen">
+		<value>На весь экран</value>
+	</data>
+	<data name="Generated">
+		<value>Сгенерированый</value>
+	</data>
+	<data name="GIF Images">
+		<value>Изображение GIF</value>
+	</data>
+	<data name="I&amp;mport from Clipboard">
+		<value>В&amp;ставить из Буферу обмена</value>
+	</data>
+	<data name="Image">
+		<value></value>
+	</data>
+	<data name="Image Files">
+		<value>Файлы изображений</value>
+	</data>
+	<data name="Input">
+		<value>Начальное изображение</value>
+	</data>
+	<data name="Input Directory">
+		<value>Начальная папка</value>
+	</data>
+	<data name="Input Image">
+		<value>Начальное изображение</value>
+	</data>
+	<data name="Input Text Sample">
+		<value>Пример начального тексту</value>
+	</data>
+	<data name="Invalid ASCII Ramp">
+		<value>Неправильный набор ASCII</value>
+	</data>
+	<data name="Invalid Directory">
+		<value>Неправильная папка</value>
+	</data>
+	<data name="Invalid or unsupported file">
+		<value>Файл неправильный или не поддерживается</value>
+	</data>
+	<data name="Invalid Output Directory">
+		<value>Неправильная конечная папка</value>
+	</data>
+	<data name="Invalid Output Size">
+		<value>Неправильный конечный размер</value>
+	</data>
+	<data name="Invalid settings file. Please delete it or save a new one">
+		<value>Неправильный файл настроек. Удалите его или создайте еще один</value>
+	</data>
+	<data name="Invert Selection">
+		<value>Негатив выделеного</value>
+	</data>
+	<data name="Invert the Output">
+		<value>Негатив конечного изображения</value>
+	</data>
+	<data name="italic">
+		<value>курсив</value>
+	</data>
+	<data name="JPEG Images">
+		<value>Изображение JPEG</value>
+	</data>
+	<data name="Language">
+		<value>Язык</value>
+	</data>
+	<data name="Levels">
+		<value>Уровни</value>
+	</data>
+	<data name="Levels Adjustment">
+		<value>Регуляция уровней</value>
+	</data>
+	<data name="Lock Selected Area">
+		<value>Замкнуть выбранный участок</value>
+	</data>
+	<data name="Log">
+		<value>Лог</value>
+	</data>
+	<data name="Magnification">
+		<value>Увеличение</value>
+	</data>
+	<data name="Max">
+		<value>Макс.</value>
+	</data>
+	<data name="Maximum">
+		<value>Максимум</value>
+	</data>
+	<data name="Med">
+		<value>Сер.</value>
+	</data>
+	<data name="Median">
+		<value>Середина</value>
+	</data>
+	<data name="Min">
+		<value>Мин</value>
+	</data>
+	<data name="Minimum">
+		<value>Минимум</value>
+	</data>
+	<data name="New version check">
+		<value>Проверять обновление</value>
+	</data>
+	<data name="None">
+		<value>Нет</value>
+	</data>
+	<data name="Open the download page">
+		<value>Открыть страницу загрузки</value>
+	</data>
+	<data name="Out of Memory, Could not convert the image">
+		<value>Недостаточно памяти для превращения изображения</value>
+	</data>
+	<data name="Output">
+		<value>Конечное изображение</value>
+	</data>
+	<data name="Output as">
+		<value>Конеч. как</value>
+	</data>
+	<data name="Output Directory">
+		<value>Конечная папка</value>
+	</data>
+	<data name="Output Filenames">
+		<value>Конечные имена файла</value>
+	</data>
+	<data name="Output Image Sample">
+		<value>Пример конечного изображения</value>
+	</data>
+	<data name="Output Levels - Minimum: {0}, Median: {1}, Maximum: {2}">
+		<value>Конечные уровни - Минимум: {0}, Середина: {1}, Максимум: {2}</value>
+	</data>
+	<data name="Output Size">
+		<value>Конечный размер</value>
+	</data>
+	<data name="Output Size: {0}x{1} characters">
+		<value>Конечный размер: {0}x{1} символов</value>
+	</data>
+	<data name="Page Setup">
+		<value>Параметры страницы</value>
+	</data>
+	<data name="pixels">
+		<value>пикселей</value>
+	</data>
+	<data name="Plain Text">
+		<value>Понятный текст</value>
+	</data>
+	<data name="Please enter an output directory">
+		<value>Укажите конечную папку</value>
+	</data>
+	<data name="Portable Network Graphics Images">
+		<value>Изображение PNG</value>
+	</data>
+	<data name="Prefix">
+		<value>Преф</value>
+	</data>
+	<data name="Print">
+		<value>Печать</value>
+	</data>
+	<data name="Print Colour">
+		<value>Цветная печать</value>
+	</data>
+	<data name="Print Error">
+		<value>Ошибка печати</value>
+	</data>
+	<data name="Print Preview">
+		<value>Предпросмотр печати</value>
+	</data>
+	<data name="Ramp">
+		<value>Набор</value>
+	</data>
+	<data name="Ramps">
+		<value>Наборы</value>
+	</data>
+	<data name="Random">
+		<value>Диапазон</value>
+	</data>
+	<data name="Remove All">
+		<value>Удалить все</value>
+	</data>
+	<data name="Remove File After Conversion">
+		<value>Удалить файл после превращения</value>
+	</data>
+	<data name="Remove Selection">
+		<value>Удалить выделенное</value>
+	</data>
+	<data name="Report a Bug">
+		<value>Сообщить о дефекте</value>
+	</data>
+	<data name="Request a Feature">
+		<value>Спросить о возможности</value>
+	</data>
+	<data name="Reset">
+		<value>Сбросить</value>
+	</data>
+	<data name="Rich Text">
+		<value>Богатый текст</value>
+	</data>
+	<data name="Rotate">
+		<value>Повернуть на</value>
+	</data>
+	<data name="Rotate Clockwise">
+		<value>Вращать за стрелкой часов</value>
+	</data>
+	<data name="Rotate Anticlockwise">
+		<value>Вращать против стрелки часов</value>
+	</data>
+	<data name="Save">
+		<value>Сохранить</value>
+	</data>
+	<data name="Save As">
+		<value>Сохранить как</value>
+	</data>
+	<data name="Save Log As">
+		<value>Сохранить лог как</value>
+	</data>
+	<data name="Save the output before closing">
+		<value>Сохранить изображение перед выходом</value>
+	</data>
+	<data name="Save to a Text File">
+		<value>Сохранить в текстовый файл</value>
+	</data>
+	<data name="saved">
+		<value>сохраненный</value>
+	</data>
+	<data name="Saving">
+		<value>Сохранение</value>
+	</data>
+	<data name="Saving output as">
+		<value>Сохранение конечного как</value>
+	</data>
+	<data name="Select a directory from which to import image files">
+		<value>Выберите папку, из которой будут добавляться изображения.</value>
+	</data>
+	<data name="Select All">
+		<value>Выбрать все</value>
+	</data>
+	<data name="Select None">
+		<value>не выбирать ничего</value>
+	</data>
+	<data name="Select the directory in which to save the converted images">
+		<value>Выберите папку для сохранения преобразованных изображений.</value>
+	</data>
+	<data name="Selection Area Border Colour">
+		<value>Цвет предела участка выбора</value>
+	</data>
+	<data name="Selection Area Fill Colour">
+		<value>Цвет участка выбора</value>
+	</data>
+	<data name="Sharpen">
+		<value>Резкость</value>
+	</data>
+	<data name="Sharpened">
+		<value>Скорректированный</value>
+	</data>
+	<data name="Sharpening Mask">
+		<value>Маска коррекции</value>
+	</data>
+	<data name="Sharpening Method">
+		<value>Метод коррекции</value>
+	</data>
+	<data name="Show Extension">
+		<value>Показывать расширение</value>
+	</data>
+	<data name="Show Full Path">
+		<value>Показывать весь путь</value>
+	</data>
+	<data name="Show the Input Image">
+		<value>Показывать начальное изображение</value>
+	</data>
+	<data name="shrunk to {0}%">
+		<value>стянуто до {0}%</value>
+	</data>
+	<data name="Size">
+		<value>Размер</value>
+	</data>
+	<data name="Some characters may not make it in to the ramp">
+		<value>Определенные символы не могут входить в набор</value>
+	</data>
+	<data name="Specify Character Size">
+		<value>Укажите размер символа</value>
+	</data>
+	<data name="Stretch">
+		<value>Растянуть</value>
+	</data>
+	<data name="Stretched">
+		<value>Растянутый</value>
+	</data>
+	<data name="strikeout">
+		<value>аут</value>
+	</data>
+	<data name="Suffix">
+		<value>Суф.</value>
+	</data>
+	<data name="Target Character Size: {0}x{1} pixels{2}">
+		<value>Размер нужных символов: {0}x{1} пикселей{2}</value>
+	</data>
+	<data name="Target Font: {0} {1}pt{2}{3}{4}{5}">
+		<value>Нужный шрифт: {0} {1}pt{2}{3}{4}{5}</value>
+	</data>
+	<data name="Text">
+		<value>Текст</value>
+	</data>
+	<data name="Text Brightness: {0}, Text Contrast: {1}">
+		<value>Яркость текста: {0}, Контраст текста: {1}</value>
+	</data>
+	<data name="Text Settings">
+		<value>Опции текста</value>
+	</data>
+	<data name="This is the latest version">
+		<value>У Вас свежайшая версия</value>
+	</data>
+	<data name="TIF Images">
+		<value>Изображение TIF</value>
+	</data>
+	<data name="Tutorials">
+		<value>Учебные материалы</value>
+	</data>
+	<data name="Unable to select this font">
+		<value>Невозможно выбрать этот шрифт</value>
+	</data>
+	<data name="underline">
+		<value>подчеркнутый</value>
+	</data>
+	<data name="Unknown or Unsupported File">
+		<value>Файл неизвестен или не поддерживается</value>
+	</data>
+	<data name="Unsharp Mask">
+		<value>Размытость</value>
+	</data>
+	<data name="Valid Characters">
+		<value>Действительные символы</value>
+	</data>
+	<data name="Version">
+		<value>Версия</value>
+	</data>
+	<data name="Version {0} is available">
+		<value>Версия {0} доступна</value>
+	</data>
+	<data name="Warning">
+		<value>Предупреждение</value>
+	</data>
+	<data name="White Text on Black Background">
+		<value>Белый текст на черном фоне</value>
+	</data>
+	<data name="Windows Metafile Images">
+		<value>Изображение Windows Metafile</value>
+	</data>
+	<data name="Zoom In">
+		<value>Ближе</value>
+	</data>
+	<data name="Zoom Out">
+		<value>Дальше</value>
+	</data>
+    	<data name="Close">
+		<value>Закрыть</value>
+	</data>
+</root>

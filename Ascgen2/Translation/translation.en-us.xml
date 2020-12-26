@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Ascii Generator dotNET - American translation file for v0.9.5
+Save this as translation.en-us.xml in the same directory as the executable file
+-->
+<root>
+	<data name="British English">
+		<value>American English</value>
+	</data>
+	<data name="Colour">
+		<value>Color</value>
+	</data>
+	<data name="Colour Preview">
+		<value>Color Preview</value>
+	</data>
+	<data name="Colour Print Preview">
+		<value>Color Print Preview</value>
+	</data>
+	<data name="Print Colour">
+		<value>Print Color</value>
+	</data>
+	<data name="Rotate Anticlockwise">
+		<value>Rotate Counterclockwise</value>
+	</data>
+	<data name="Selection Area Border Colour">
+		<value>Selection Area Border Color</value>
+	</data>
+	<data name="Selection Area Fill Colour">
+		<value>Selection Area Fill Color</value>
+	</data>
+</root>

@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<data name="&amp;About">
+		<value>&amp;About</value>
+	</data>
+	<data name="Add File">
+		<value>Add File</value>
+	</data>
+	<data name="&amp;Cancel">
+		<value>&amp;Cancel</value>
+	</data>
+	<data name="&amp;Close">
+		<value>&amp;Close</value>
+	</data>
+	<data name="Convert">
+		<value>Convert</value>
+	</data>
+	<data name="&amp;Default">
+		<value>&amp;Default</value>
+	</data>
+	<data name="&amp;Donate">
+		<value>&amp;Donate</value>
+	</data>
+  <data name="FAQ">
+    <value>FAQ</value>
+  </data>
+  <data name="&amp;File">
+		<value>&amp;File</value>
+	</data>
+	<data name="&amp;Full Screen">
+		<value>&amp;Full Screen</value>
+	</data>
+	<data name="&amp;Help">
+		<value>&amp;Help</value>
+	</data>
+	<data name="&amp;Load Image">
+		<value>&amp;Load Image</value>
+	</data>
+	<data name="&amp;Ok">
+		<value>&amp;Ok</value>
+	</data>
+	<data name="Remove">
+		<value>Remove</value>
+	</data>
+	<data name="&amp;Save">
+		<value>&amp;Save</value>
+	</data>
+	<data name="&amp;Settings">
+		<value>&amp;Settings</value>
+	</data>
+	<data name="&amp;View">
+		<value>&amp;View</value>
+	</data>
+	<data name="{0:yyyyMMddHHmmss}">
+		<value>{0:yyyyMMddHHmmss}</value>
+	</data>
+	<data name="{0} file(s) converted, {1} error(s)">
+		<value>{0} file(s) converted, {1} error(s)</value>
+	</data>
+	<data name="Add Directory">
+		<value>Add Directory</value>
+	</data>
+	<data name="Adjust Levels">
+		<value>Adjust Levels</value>
+	</data>
+  <data name="Advanced">
+    <value>Advanced</value>
+  </data>
+  <data name="All Files">
+		<value>All Files</value>
+	</data>
+	<data name="already exists">
+		<value>already exists</value>
+	</data>
+	<data name="ASCII Ramp">
+		<value>ASCII Ramp</value>
+	</data>
+	<data name="Auto">
+		<value>Auto</value>
+	</data>
+	<data name="automatically calculated">
+		<value>automatically calculated</value>
+	</data>
+	<data name="Batch Conversion">
+		<value>Batch Conversion</value>
+	</data>
+	<data name="Batch conversion cancelled">
+		<value>Batch conversion cancelled</value>
+	</data>
+	<data name="Batch conversion started, {0} file(s) to process">
+		<value>Batch conversion started, {0} file(s) to process</value>
+	</data>
+	<data name="Batch finished">
+		<value>Batch finished</value>
+	</data>
+	<data name="Bitmap Images">
+		<value>Bitmap Images</value>
+	</data>
+	<data name="Black and White">
+		<value>Black and White</value>
+	</data>
+	<data name="Black Text on White">
+		<value>Black Text on White</value>
+	</data>
+	<data name="Black Text on White Background">
+		<value>Black Text on White Background</value>
+	</data>
+	<data name="bold">
+		<value>bold</value>
+	</data>
+	<data name="Brightness">
+		<value>Brightness</value>
+	</data>
+	<data name="British English">
+		<value>British English</value>
+	</data>
+	<data name="C&amp;lose">
+		<value>C&amp;lose</value>
+	</data>
+	<data name="Character Size">
+		<value>Character Size</value>
+	</data>
+	<data name="Characters">
+		<value>Characters</value>
+	</data>
+	<data name="Check for a New Version">
+		<value>Check for a New Version</value>
+	</data>
+	<data name="Choose the Font">
+		<value>Choose the Font</value>
+	</data>
+	<data name="Choose the Magnification Level">
+		<value>Choose the Magnification Level</value>
+	</data>
+	<data name="Clear">
+		<value>Clear</value>
+	</data>
+	<data name="Click and drag on an image to select an area">
+		<value>Click and drag on an image to select an area</value>
+	</data>
+	<data name="Colour">
+		<value>Colour</value>
+	</data>
+	<data name="Colour Preview">
+		<value>Colour Preview</value>
+	</data>
+	<data name="Colour Print Preview">
+		<value>Colour Print Preview</value>
+	</data>
+	<data name="Confirm close if unsaved">
+		<value>Confirm close if unsaved</value>
+	</data>
+	<data name="Contrast">
+		<value>Contrast</value>
+	</data>
+	<data name="Controls">
+		<value>Controls</value>
+	</data>
+	<data name="Converting">
+		<value>Converting</value>
+	</data>
+	<data name="Copy">
+		<value>Copy</value>
+	</data>
+	<data name="Copy Ramp to Clipboard">
+		<value>Copy Ramp to Clipboard</value>
+	</data>
+	<data name="Could not load translation file '{0}'">
+		<value>Could not load translation file '{0}'</value>
+	</data>
+	<data name="Date/Time">
+		<value>Date/Time</value>
+	</data>
+	<data name="DefaultWidth and/or DefaultHeight must be > 0">
+		<value>DefaultWidth and/or DefaultHeight must be > 0</value>
+	</data>
+	<data name="Dither">
+		<value>Dither</value>
+	</data>
+	<data name="Dithering Amount">
+		<value>Dithering Amount</value>
+	</data>
+	<data name="Doubleclick to load an image, or drag and drop here.">
+		<value>Doubleclick to load an image, or drag and drop here.</value>
+	</data>
+	<data name="E&amp;xit">
+		<value>E&amp;xit</value>
+	</data>
+	<data name="Edit">
+		<value>Edit</value>
+	</data>
+	<data name="Edit Settings">
+		<value>Edit Settings</value>
+	</data>
+	<data name="Effects">
+		<value>Effects</value>
+	</data>
+	<data name="Enter the characters to be used for generating the ramp">
+		<value>Enter the characters to be used for generating the ramp</value>
+	</data>
+	<data name="Error">
+		<value>Error</value>
+	</data>
+	<data name="Error converting the image">
+		<value>Error converting the image</value>
+	</data>
+	<data name="Error saving to {0}">
+		<value>Error saving to {0}</value>
+	</data>
+	<data name="Error with settings file '{0}'">
+		<value>Error with settings file '{0}'</value>
+	</data>
+	<data name="Exchangeable Image Files">
+		<value>Exchangeable Image Files</value>
+	</data>
+	<data name="File Not Found">
+		<value>File Not Found</value>
+	</data>
+	<data name="Files to be converted">
+		<value>Files to be converted</value>
+	</data>
+	<data name="Fill Selected Area">
+		<value>Fill Selected Area</value>
+	</data>
+	<data name="Flip Horizontally">
+		<value>Flip Horizontally</value>
+	</data>
+	<data name="Flip Vertically">
+		<value>Flip Vertically</value>
+	</data>
+	<data name="Flipped Horizontally">
+		<value>Flipped Horizontally</value>
+	</data>
+	<data name="Flipped Vertically">
+		<value>Flipped Vertically</value>
+	</data>
+	<data name="Font">
+		<value>Font</value>
+	</data>
+	<data name="Fonts">
+		<value>Fonts</value>
+	</data>
+	<data name="For The Best Effect This Text Should Be Readable">
+		<value>For The Best Effect This Text Should Be Readable</value>
+	</data>
+	<data name="Full Screen">
+		<value>Full Screen</value>
+	</data>
+	<data name="Generated">
+		<value>Generated</value>
+	</data>
+	<data name="GIF Images">
+		<value>GIF Images</value>
+	</data>
+	<data name="I&amp;mport from Clipboard">
+		<value>I&amp;mport from Clipboard</value>
+	</data>
+	<data name="Image">
+		<value>Image</value>
+	</data>
+	<data name="Image Files">
+		<value>Image Files</value>
+	</data>
+	<data name="Input">
+		<value>Input</value>
+	</data>
+	<data name="Input Directory">
+		<value>Input Directory</value>
+	</data>
+	<data name="Input Image">
+		<value>Input Image</value>
+	</data>
+	<data name="Input Text Sample">
+		<value>Input Text Sample</value>
+	</data>
+	<data name="Invalid ASCII Ramp">
+		<value>Invalid ASCII Ramp</value>
+	</data>
+	<data name="Invalid Directory">
+		<value>Invalid Directory</value>
+	</data>
+	<data name="Invalid or unsupported file">
+		<value>Invalid or unsupported file</value>
+	</data>
+	<data name="Invalid Output Directory">
+		<value>Invalid Output Directory</value>
+	</data>
+	<data name="Invalid Output Size">
+		<value>Invalid Output Size</value>
+	</data>
+	<data name="Invalid settings file. Please delete it or save a new one">
+		<value>Invalid settings file. Please delete it or save a new one</value>
+	</data>
+	<data name="Invert Selection">
+		<value>Invert Selection</value>
+	</data>
+	<data name="Invert the Output">
+		<value>Invert the Output</value>
+	</data>
+	<data name="italic">
+		<value>italic</value>
+	</data>
+	<data name="JPEG Images">
+		<value>JPEG Images</value>
+	</data>
+	<data name="Language">
+		<value>Language</value>
+	</data>
+	<data name="Levels">
+		<value>Levels</value>
+	</data>
+	<data name="Levels Adjustment">
+		<value>Levels Adjustment</value>
+	</data>
+	<data name="Lock Selected Area">
+		<value>Lock Selected Area</value>
+	</data>
+	<data name="Log">
+		<value>Log</value>
+	</data>
+	<data name="Magnification">
+		<value>Magnification</value>
+	</data>
+	<data name="Max">
+		<value>Max</value>
+	</data>
+	<data name="Maximum">
+		<value>Maximum</value>
+	</data>
+	<data name="Med">
+		<value>Med</value>
+	</data>
+	<data name="Median">
+		<value>Median</value>
+	</data>
+	<data name="Min">
+		<value>Min</value>
+	</data>
+	<data name="Minimum">
+		<value>Minimum</value>
+	</data>
+	<data name="New version check">
+		<value>New version check</value>
+	</data>
+	<data name="None">
+		<value>None</value>
+	</data>
+	<data name="Open the download page">
+		<value>Open the download page</value>
+	</data>
+	<data name="Out of Memory, Could not convert the image">
+		<value>Out of Memory, Could not convert the image</value>
+	</data>
+	<data name="Output">
+		<value>Output</value>
+	</data>
+	<data name="Output as">
+		<value>Output as</value>
+	</data>
+	<data name="Output Directory">
+		<value>Output Directory</value>
+	</data>
+	<data name="Output Filenames">
+		<value>Output Filenames</value>
+	</data>
+	<data name="Output Image Sample">
+		<value>Output Image Sample</value>
+	</data>
+	<data name="Output Levels - Minimum: {0}, Median: {1}, Maximum: {2}">
+		<value>Output Levels - Minimum: {0}, Median: {1}, Maximum: {2}</value>
+	</data>
+	<data name="Output Size">
+		<value>Output Size</value>
+	</data>
+	<data name="Output Size: {0}x{1} characters">
+		<value>Output Size: {0}x{1} characters</value>
+	</data>
+	<data name="Page Setup">
+		<value>Page Setup</value>
+	</data>
+	<data name="pixels">
+		<value>pixels</value>
+	</data>
+	<data name="Plain Text">
+		<value>Plain Text</value>
+	</data>
+	<data name="Please enter an output directory">
+		<value>Please enter an output directory</value>
+	</data>
+	<data name="Portable Network Graphics Images">
+		<value>Portable Network Graphics Images</value>
+	</data>
+	<data name="Prefix">
+		<value>Prefix</value>
+	</data>
+	<data name="Print">
+		<value>Print</value>
+	</data>
+	<data name="Print Colour">
+		<value>Print Colour</value>
+	</data>
+	<data name="Print Error">
+		<value>Print Error</value>
+	</data>
+	<data name="Print Preview">
+		<value>Print Preview</value>
+	</data>
+	<data name="Ramp">
+		<value>Ramp</value>
+	</data>
+	<data name="Ramps">
+		<value>Ramps</value>
+	</data>
+	<data name="Random">
+		<value>Random</value>
+	</data>
+	<data name="Remove All">
+		<value>Remove All</value>
+	</data>
+	<data name="Remove File After Conversion">
+		<value>Remove File After Conversion</value>
+	</data>
+	<data name="Remove Selection">
+		<value>Remove Selection</value>
+	</data>
+	<data name="Report a Bug">
+		<value>Report a Bug</value>
+	</data>
+	<data name="Request a Feature">
+		<value>Request a Feature</value>
+	</data>
+	<data name="Reset">
+		<value>Reset</value>
+	</data>
+	<data name="Rich Text">
+		<value>Rich Text</value>
+	</data>
+	<data name="Rotate">
+		<value>Rotate</value>
+	</data>
+	<data name="Rotate Clockwise">
+		<value>Rotate Clockwise</value>
+	</data>
+	<data name="Rotate Anticlockwise">
+		<value>Rotate Anticlockwise</value>
+	</data>
+	<data name="Save">
+		<value>Save</value>
+	</data>
+	<data name="Save As">
+		<value>Save As</value>
+	</data>
+	<data name="Save Log As">
+		<value>Save Log As</value>
+	</data>
+	<data name="Save the output before closing">
+		<value>Save the output before closing</value>
+	</data>
+	<data name="Save to a Text File">
+		<value>Save to a Text File</value>
+	</data>
+	<data name="saved">
+		<value>saved</value>
+	</data>
+	<data name="Saving">
+		<value>Saving</value>
+	</data>
+	<data name="Saving output as">
+		<value>Saving output as</value>
+	</data>
+	<data name="Select a directory from which to import image files">
+		<value>Select a directory from which to import image files</value>
+	</data>
+	<data name="Select All">
+		<value>Select All</value>
+	</data>
+	<data name="Select None">
+		<value>Select None</value>
+	</data>
+	<data name="Select the directory in which to save the converted images">
+		<value>Select the directory in which to save the converted images</value>
+	</data>
+	<data name="Selection Area Border Colour">
+		<value>Selection Area Border Colour</value>
+	</data>
+	<data name="Selection Area Fill Colour">
+		<value>Selection Area Fill Colour</value>
+	</data>
+	<data name="Sharpen">
+		<value>Sharpen</value>
+	</data>
+	<data name="Sharpened">
+		<value>Sharpened</value>
+	</data>
+	<data name="Sharpening Mask">
+		<value>Sharpening Mask</value>
+	</data>
+	<data name="Sharpening Method">
+		<value>Sharpening Method</value>
+	</data>
+	<data name="Show Extension">
+		<value>Show Extension</value>
+	</data>
+	<data name="Show Full Path">
+		<value>Show Full Path</value>
+	</data>
+  <data name="Show Log">
+    <value>Show Log</value>
+  </data>
+  <data name="shrunk to {0}%">
+		<value>shrunk to {0}%</value>
+	</data>
+	<data name="Size">
+		<value>Size</value>
+	</data>
+	<data name="Some characters may not make it in to the ramp">
+		<value>Some characters may not make it in to the ramp</value>
+	</data>
+	<data name="Specify Character Size">
+		<value>Specify Character Size</value>
+	</data>
+	<data name="Stretch">
+		<value>Stretch</value>
+	</data>
+	<data name="Stretched">
+		<value>Stretched</value>
+	</data>
+	<data name="strikeout">
+		<value>strikeout</value>
+	</data>
+	<data name="Suffix">
+		<value>Suffix</value>
+	</data>
+	<data name="Target Character Size: {0}x{1} pixels{2}">
+		<value>Target Character Size: {0}x{1} pixels{2}</value>
+	</data>
+	<data name="Target Font: {0} {1}pt{2}{3}{4}{5}">
+		<value>Target Font: {0} {1}pt{2}{3}{4}{5}</value>
+	</data>
+	<data name="Text">
+		<value>Text</value>
+	</data>
+	<data name="Text Brightness: {0}, Text Contrast: {1}">
+		<value>Text Brightness: {0}, Text Contrast: {1}</value>
+	</data>
+	<data name="Text Settings">
+		<value>Text Settings</value>
+	</data>
+	<data name="This is the latest version">
+		<value>This is the latest version</value>
+	</data>
+	<data name="TIF Images">
+		<value>TIF Images</value>
+	</data>
+	<data name="Tutorials">
+		<value>Tutorials</value>
+	</data>
+	<data name="Unable to select this font">
+		<value>Unable to select this font</value>
+	</data>
+	<data name="underline">
+		<value>underline</value>
+	</data>
+	<data name="Unknown or Unsupported File">
+		<value>Unknown or Unsupported File</value>
+	</data>
+  <data name="Update while Selection Changes">
+    <value>Update while Selection Changes</value>
+  </data>
+  <data name="Unsharp Mask">
+		<value>Unsharp Mask</value>
+	</data>
+	<data name="Valid Characters">
+		<value>Valid Characters</value>
+	</data>
+	<data name="Version">
+		<value>Version</value>
+	</data>
+	<data name="Version {0} is available">
+		<value>Version {0} is available</value>
+	</data>
+	<data name="Warning">
+		<value>Warning</value>
+	</data>
+	<data name="White Text on Black Background">
+		<value>White Text on Black Background</value>
+	</data>
+	<data name="Windows Metafile Images">
+		<value>Windows Metafile Images</value>
+	</data>
+	<data name="Zoom In">
+		<value>Zoom In</value>
+	</data>
+	<data name="Zoom Out">
+		<value>Zoom Out</value>
+	</data>
+</root>

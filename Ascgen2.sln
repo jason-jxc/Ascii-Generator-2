@@ -1,0 +1,47 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ascgen2", "Ascgen2\Ascgen2.csproj", "{770F6D41-B085-4E51-935E-11C09E28F156}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4A100A8B-4510-42AF-901E-A72D840D2A91} = {4A100A8B-4510-42AF-901E-A72D840D2A91}
+		{69E1D695-5C48-47A4-B8A7-01C43FE4BB40} = {69E1D695-5C48-47A4-B8A7-01C43FE4BB40}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMSoftware.TextHelper", "JMSoftware.TextHelper\JMSoftware.TextHelper.csproj", "{11F3DCBE-CC36-4761-AF00-B8FC87AFB443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMSoftware.Controls", "JMSoftware.Controls\JMSoftware.Controls.csproj", "{69E1D695-5C48-47A4-B8A7-01C43FE4BB40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMSoftware.ImageHelper", "JMSoftware.ImageHelper\JMSoftware.ImageHelper.csproj", "{052DA6A8-6309-4589-922A-28407F8A0DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMSoftware.VersionChecking", "JMSoftware.VersionChecking\JMSoftware.VersionChecking.csproj", "{4A100A8B-4510-42AF-901E-A72D840D2A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770F6D41-B085-4E51-935E-11C09E28F156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770F6D41-B085-4E51-935E-11C09E28F156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770F6D41-B085-4E51-935E-11C09E28F156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770F6D41-B085-4E51-935E-11C09E28F156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F3DCBE-CC36-4761-AF00-B8FC87AFB443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F3DCBE-CC36-4761-AF00-B8FC87AFB443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F3DCBE-CC36-4761-AF00-B8FC87AFB443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F3DCBE-CC36-4761-AF00-B8FC87AFB443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E1D695-5C48-47A4-B8A7-01C43FE4BB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E1D695-5C48-47A4-B8A7-01C43FE4BB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E1D695-5C48-47A4-B8A7-01C43FE4BB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E1D695-5C48-47A4-B8A7-01C43FE4BB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{052DA6A8-6309-4589-922A-28407F8A0DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052DA6A8-6309-4589-922A-28407F8A0DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052DA6A8-6309-4589-922A-28407F8A0DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052DA6A8-6309-4589-922A-28407F8A0DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A100A8B-4510-42AF-901E-A72D840D2A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A100A8B-4510-42AF-901E-A72D840D2A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A100A8B-4510-42AF-901E-A72D840D2A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A100A8B-4510-42AF-901E-A72D840D2A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

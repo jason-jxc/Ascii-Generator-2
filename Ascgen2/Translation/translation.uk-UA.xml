@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<data name="&amp;About">
+		<value>&amp;Про програму</value>
+	</data>
+	<data name="&amp;Add File">
+		<value>&amp;+ Файл</value>
+	</data>
+	<data name="&amp;Cancel">
+		<value>&amp;Скасувати</value>
+	</data>
+	<data name="&amp;Close">
+		<value>За&amp;крити</value>
+	</data>
+	<data name="&amp;Convert">
+		<value>&amp;Перетв.</value>
+	</data>
+	<data name="&amp;Default">
+		<value>&amp;Стандартно</value>
+	</data>
+	<data name="&amp;Donate">
+		<value>По&amp;жертва</value>
+	</data>
+	<data name="&amp;File">
+		<value>&amp;Файл</value>
+	</data>
+	<data name="&amp;Full Screen">
+		<value>&amp;На весь екран</value>
+	</data>
+	<data name="&amp;Help">
+		<value>&amp;Довідка</value>
+	</data>
+	<data name="&amp;Load Image">
+		<value>За&amp;вантажити зображення</value>
+	</data>
+	<data name="&amp;Ok">
+		<value>&amp;Гаразд</value>
+	</data>
+	<data name="&amp;Remove">
+		<value>&amp;Вилучити</value>
+	</data>
+	<data name="&amp;Save">
+		<value>&amp;Зберегти</value>
+	</data>
+	<data name="&amp;Settings">
+		<value>&amp;Опції</value>
+	</data>
+	<data name="&amp;View">
+		<value>&amp;Вигляд</value>
+	</data>
+	<data name="{0:yyyyMMddHHmmss}">
+		<value>{0:yyyyMMddHHmmss}</value>
+	</data>
+	<data name="{0} file(s) converted, {1} error(s)">
+		<value>Перетворено {0} файл(ів), в {1} помилка(и)</value>
+	</data>
+	<data name="Add &amp;Directory">
+		<value>+ &amp;Теку</value>
+	</data>
+	<data name="Adjust Levels">
+		<value>Регулювати рівні</value>
+	</data>
+	<data name="All Files">
+		<value>Всі файли</value>
+	</data>
+	<data name="already exists">
+		<value>вже існує</value>
+	</data>
+	<data name="ASCII Ramp">
+		<value>Набір ASCII</value>
+	</data>
+	<data name="Auto">
+		<value>Авто</value>
+	</data>
+	<data name="automatically calculated">
+		<value>автоматично обрахований</value>
+	</data>
+	<data name="Batch Conversion">
+		<value>Пакетне перетворення</value>
+	</data>
+	<data name="Batch conversion cancelled">
+		<value>Пакетне перетворення скасоване</value>
+	</data>
+	<data name="Batch conversion started, {0} file(s) to process">
+		<value>Пакетне перетворення триває, {0} файл(ів) опрацьовується(ються)</value>
+	</data>
+	<data name="Batch finished">
+		<value>Пакет сформований</value>
+	</data>
+	<data name="Bitmap Images">
+		<value>Зображення Bitmap</value>
+	</data>
+	<data name="Black and White">
+		<value>Чорно-білий</value>
+	</data>
+	<data name="Black Text on White">
+		<value>Чорним по білому</value>
+	</data>
+	<data name="Black Text on White Background">
+		<value>Чорний текст на білому тлі</value>
+	</data>
+	<data name="bold">
+		<value>грубий</value>
+	</data>
+	<data name="Brightness">
+		<value>Яскр-сть</value>
+	</data>
+	<data name="British English">
+		<value>Українська</value>
+	</data>
+	<data name="C&amp;lose">
+		<value>З&amp;акрити</value>
+	</data>
+	<data name="Character Size">
+		<value>Розмір символу</value>
+	</data>
+	<data name="Characters">
+		<value>Символи</value>
+	</data>
+	<data name="Check for a New Version">
+		<value>Перевірити наявність поновлення</value>
+	</data>
+	<data name="Choose the Font">
+		<value>Вибір шрифта</value>
+	</data>
+	<data name="Choose the Magnification Level">
+		<value>Вибір рівня збільшення</value>
+	</data>
+	<data name="Clear">
+		<value>Очистити</value>
+	</data>
+	<data name="Click and drag on an image to select an area">
+		<value>Для вибору ділянки клацніть лівою і рухайте мишу</value>
+	</data>
+	<data name="Colour">
+		<value>Кольоровий</value>
+	</data>
+	<data name="Colour Preview">
+		<value>Перегляд кольору</value>
+	</data>
+	<data name="Colour Print Preview">
+		<value>Перегляд кольорового друку</value>
+	</data>
+	<data name="Confirm close if unsaved">
+		<value>Підтвердження при виході</value>
+	</data>
+	<data name="Contrast">
+		<value>Контраст</value>
+	</data>
+	<data name="Controls">
+		<value>Керування</value>
+	</data>
+	<data name="Converting">
+		<value>Перетворення</value>
+	</data>
+	<data name="Copy">
+		<value>Копіювати</value>
+	</data>
+	<data name="Copy Ramp to Clipboard">
+		<value>Копіювати набір в Буфер обміну</value>
+	</data>
+	<data name="Could not load translation file '{0}'">
+		<value>Не вдалося завантажити файл перекладу '{0}'</value>
+	</data>
+	<data name="Date/Time">
+		<value>Дата і час</value>
+	</data>
+	<data name="DefaultWidth and/or DefaultHeight must be > 0">
+		<value>Стандартні висота або/і ширина повинні бути > 0</value>
+	</data>
+	<data name="Dither">
+		<value>Перешкоди</value>
+	</data>
+	<data name="Dithering Amount">
+		<value>К-ть перешкод</value>
+	</data>
+	<data name="Doubleclick to load an image, or drag and drop here.">
+		<value>Для відкриття зображення двічі клацніть лівою, або перетягніть зображення на цю панель.</value>
+	</data>
+	<data name="E&amp;xit">
+		<value>В&amp;ихід</value>
+	</data>
+	<data name="Edit">
+		<value>Редакція</value>
+	</data>
+	<data name="Edit Settings">
+		<value>Змінити параметри</value>
+	</data>
+	<data name="Effects">
+		<value>Ефекти</value>
+	</data>
+	<data name="Enter the characters to be used for generating the ramp">
+		<value>Вкажіть символи, які використовуватимуться в наборі</value>
+	</data>
+	<data name="Error">
+		<value>Помилка</value>
+	</data>
+	<data name="Error converting the image">
+		<value>Помилка перетворення зображення</value>
+	</data>
+	<data name="Error saving to {0}">
+		<value>Не вдалося зберегти в {0}</value>
+	</data>
+	<data name="Error with settings file '{0}'">
+		<value>Помилка в файлі налаштувань: '{0}'</value>
+	</data>
+	<data name="Exchangeable Image Files">
+		<value>Зображення EIF</value>
+	</data>
+	<data name="File Not Found">
+		<value>Файл не знайдено</value>
+	</data>
+	<data name="Files to be converted">
+		<value>Файли для перетворення</value>
+	</data>
+	<data name="Fill Selected Area">
+		<value>Заповнити вибрану ділянку</value>
+	</data>
+	<data name="Flip Horizontally">
+		<value>Віддзеркалити горизонтально</value>
+	</data>
+	<data name="Flip Vertically">
+		<value>Віддзеркалити вертикально</value>
+	</data>
+	<data name="Flipped Horizontally">
+		<value>Горизонтальне віддзеркалення</value>
+	</data>
+	<data name="Flipped Vertically">
+		<value>Вертикальне віддзеркалення</value>
+	</data>
+	<data name="Font">
+		<value>Шрифт</value>
+	</data>
+	<data name="Fonts">
+		<value>Шрифти</value>
+	</data>
+	<data name="For The Best Effect This Text Should Be Readable">
+		<value>Для найкращого ефекту цей текст має читатися</value>
+	</data>
+	<data name="Full Screen">
+		<value>На весь екран</value>
+	</data>
+	<data name="Generated">
+		<value>Згенерований</value>
+	</data>
+	<data name="GIF Images">
+		<value>Зображення GIF</value>
+	</data>
+	<data name="I&amp;mport from Clipboard">
+		<value>В&amp;ставити з Буферу обміну</value>
+	</data>
+	<data name="Image">
+		<value></value>
+	</data>
+	<data name="Image Files">
+		<value>Файли зображень</value>
+	</data>
+	<data name="Input">
+		<value>Початкове зображення</value>
+	</data>
+	<data name="Input Directory">
+		<value>Початкова тека</value>
+	</data>
+	<data name="Input Image">
+		<value>Початкове зображення</value>
+	</data>
+	<data name="Input Text Sample">
+		<value>Приклад початкового тексту</value>
+	</data>
+	<data name="Invalid ASCII Ramp">
+		<value>Неправильний набір ASCII</value>
+	</data>
+	<data name="Invalid Directory">
+		<value>Неправильна тека</value>
+	</data>
+	<data name="Invalid or unsupported file">
+		<value>Файл неправильний або не підтримується</value>
+	</data>
+	<data name="Invalid Output Directory">
+		<value>Неправильна кінцева тека</value>
+	</data>
+	<data name="Invalid Output Size">
+		<value>Неправильний кінцевий розмір</value>
+	</data>
+	<data name="Invalid settings file. Please delete it or save a new one">
+		<value>Неправильний файл налаштувань. Вилучіть його або створіть ще один</value>
+	</data>
+	<data name="Invert Selection">
+		<value>Негатив вибраного</value>
+	</data>
+	<data name="Invert the Output">
+		<value>Негатив кінцевого зображення</value>
+	</data>
+	<data name="italic">
+		<value>нахилений</value>
+	</data>
+	<data name="JPEG Images">
+		<value>Зображення JPEG</value>
+	</data>
+	<data name="Language">
+		<value>Мова</value>
+	</data>
+	<data name="Levels">
+		<value>Рівні</value>
+	</data>
+	<data name="Levels Adjustment">
+		<value>Регулювання рівнів</value>
+	</data>
+	<data name="Lock Selected Area">
+		<value>Замкнути вибрану ділянку</value>
+	</data>
+	<data name="Log">
+		<value>Лог</value>
+	</data>
+	<data name="Magnification">
+		<value>Збільшення</value>
+	</data>
+	<data name="Max">
+		<value>Макс.</value>
+	</data>
+	<data name="Maximum">
+		<value>Максимум</value>
+	</data>
+	<data name="Med">
+		<value>Сер.</value>
+	</data>
+	<data name="Median">
+		<value>Середина</value>
+	</data>
+	<data name="Min">
+		<value>Мін.</value>
+	</data>
+	<data name="Minimum">
+		<value>Мінімум</value>
+	</data>
+	<data name="New version check">
+		<value>Перевіряти поновлення</value>
+	</data>
+	<data name="None">
+		<value>Нема</value>
+	</data>
+	<data name="Open the download page">
+		<value>Відкрити сторінку завантаження</value>
+	</data>
+	<data name="Out of Memory, Could not convert the image">
+		<value>Недостатньо пам'яті для перетворення зображення</value>
+	</data>
+	<data name="Output">
+		<value>Кінцеве зображення</value>
+	</data>
+	<data name="Output as">
+		<value>Кінцеве як</value>
+	</data>
+	<data name="Output Directory">
+		<value>Кінцева тека</value>
+	</data>
+	<data name="Output Filenames">
+		<value>Кінцеві імена файлу</value>
+	</data>
+	<data name="Output Image Sample">
+		<value>Приклад кінцевого зображення</value>
+	</data>
+	<data name="Output Levels - Minimum: {0}, Median: {1}, Maximum: {2}">
+		<value>Кінцеві рівні - Мінімум: {0}, Середина: {1}, Максимум: {2}</value>
+	</data>
+	<data name="Output Size">
+		<value>Кінцевий розмір</value>
+	</data>
+	<data name="Output Size: {0}x{1} characters">
+		<value>Кінцевий розмір: {0}x{1} символів</value>
+	</data>
+	<data name="Page Setup">
+		<value>Параметри сторінки</value>
+	</data>
+	<data name="pixels">
+		<value>пікселі</value>
+	</data>
+	<data name="Plain Text">
+		<value>Зрозумілий текст</value>
+	</data>
+	<data name="Please enter an output directory">
+		<value>Вкажіть кінцеву теку</value>
+	</data>
+	<data name="Portable Network Graphics Images">
+		<value>Зображення PNG</value>
+	</data>
+	<data name="Prefix">
+		<value>Преф</value>
+	</data>
+	<data name="Print">
+		<value>Друк</value>
+	</data>
+	<data name="Print Colour">
+		<value>Друк в кольорі</value>
+	</data>
+	<data name="Print Error">
+		<value>Помилка друку</value>
+	</data>
+	<data name="Print Preview">
+		<value>Попередній перегляд</value>
+	</data>
+	<data name="Ramp">
+		<value>Набір</value>
+	</data>
+	<data name="Ramps">
+		<value>Набори</value>
+	</data>
+	<data name="Random">
+		<value>Діапазон</value>
+	</data>
+	<data name="Remove All">
+		<value>Вилучити все</value>
+	</data>
+	<data name="Remove File After Conversion">
+		<value>Вилучити файл після перетворення</value>
+	</data>
+	<data name="Remove Selection">
+		<value>Вилучити вибране</value>
+	</data>
+	<data name="Report a Bug">
+		<value>Повідомити про дефект</value>
+	</data>
+	<data name="Request a Feature">
+		<value>Запитати про можливість</value>
+	</data>
+	<data name="Reset">
+		<value>Скинути</value>
+	</data>
+	<data name="Rich Text">
+		<value>Багатий текст</value>
+	</data>
+	<data name="Rotate">
+		<value>Обернути на</value>
+	</data>
+	<data name="Rotate Clockwise">
+		<value>Обертати за стрілкою годинника</value>
+	</data>
+	<data name="Rotate Anticlockwise">
+		<value>Обертати проти стрілки годинника</value>
+	</data>
+	<data name="Save">
+		<value>Зберегти</value>
+	</data>
+	<data name="Save As">
+		<value>Зберегти як</value>
+	</data>
+	<data name="Save Log As">
+		<value>Зберегти лог як</value>
+	</data>
+	<data name="Save the output before closing">
+		<value>Зберегти зображення перед виходом</value>
+	</data>
+	<data name="Save to a Text File">
+		<value>Зберегти в текстовий файл</value>
+	</data>
+	<data name="saved">
+		<value>збережений</value>
+	</data>
+	<data name="Saving">
+		<value>Збереження</value>
+	</data>
+	<data name="Saving output as">
+		<value>Збереження кінцевого як</value>
+	</data>
+	<data name="Select a directory from which to import image files">
+		<value>Виберіть теку, з якої додаватимуться зображення.</value>
+	</data>
+	<data name="Select All">
+		<value>Вибрати все</value>
+	</data>
+	<data name="Select None">
+		<value>не вибирати нічого</value>
+	</data>
+	<data name="Select the directory in which to save the converted images">
+		<value>Виберіть теку для збереження перетворених зображень.</value>
+	</data>
+	<data name="Selection Area Border Colour">
+		<value>Колір межі ділянки вибору</value>
+	</data>
+	<data name="Selection Area Fill Colour">
+		<value>Колір ділянки вибору</value>
+	</data>
+	<data name="Sharpen">
+		<value>Різкість</value>
+	</data>
+	<data name="Sharpened">
+		<value>Скорегований</value>
+	</data>
+	<data name="Sharpening Mask">
+		<value>Маска корекції</value>
+	</data>
+	<data name="Sharpening Method">
+		<value>Метод корекції</value>
+	</data>
+	<data name="Show Extension">
+		<value>Показувати розширення</value>
+	</data>
+	<data name="Show Full Path">
+		<value>Показувати повний шлях</value>
+	</data>
+	<data name="Show the Input Image">
+		<value>Показувати початкове зображення</value>
+	</data>
+	<data name="shrunk to {0}%">
+		<value>стягнуто до {0}%</value>
+	</data>
+	<data name="Size">
+		<value>Розмір</value>
+	</data>
+	<data name="Some characters may not make it in to the ramp">
+		<value>Певні символи не можуть входити до набору</value>
+	</data>
+	<data name="Specify Character Size">
+		<value>Вкажіть розмір символу</value>
+	</data>
+	<data name="Stretch">
+		<value>Розтяг</value>
+	</data>
+	<data name="Stretched">
+		<value>Розтягнутий</value>
+	</data>
+	<data name="strikeout">
+		<value>аут</value>
+	</data>
+	<data name="Suffix">
+		<value>Суф.</value>
+	</data>
+	<data name="Target Character Size: {0}x{1} pixels{2}">
+		<value>Розмір потрібних символів: {0}x{1} пікселів{2}</value>
+	</data>
+	<data name="Target Font: {0} {1}pt{2}{3}{4}{5}">
+		<value>Потрібний шрифт: {0} {1}pt{2}{3}{4}{5}</value>
+	</data>
+	<data name="Text">
+		<value>Текст</value>
+	</data>
+	<data name="Text Brightness: {0}, Text Contrast: {1}">
+		<value>Яскравість тексту: {0}, Контраст тексту: {1}</value>
+	</data>
+	<data name="Text Settings">
+		<value>Опції тексту</value>
+	</data>
+	<data name="This is the latest version">
+		<value>В Вас найсвіжіша версія</value>
+	</data>
+	<data name="TIF Images">
+		<value>Зображення TIF</value>
+	</data>
+	<data name="Tutorials">
+		<value>Навчальні матеріали</value>
+	</data>
+	<data name="Unable to select this font">
+		<value>Неможливо вибрати цей шрифт</value>
+	</data>
+	<data name="underline">
+		<value>підкреслений</value>
+	</data>
+	<data name="Unknown or Unsupported File">
+		<value>Файл невідомий або не підтримується</value>
+	</data>
+	<data name="Unsharp Mask">
+		<value>Розмитість</value>
+	</data>
+	<data name="Valid Characters">
+		<value>Дійсні символи</value>
+	</data>
+	<data name="Version">
+		<value>Версія</value>
+	</data>
+	<data name="Version {0} is available">
+		<value>Версія {0} доступна</value>
+	</data>
+	<data name="Warning">
+		<value>Попередження</value>
+	</data>
+	<data name="White Text on Black Background">
+		<value>Білий текст на чорному тлі</value>
+	</data>
+	<data name="Windows Metafile Images">
+		<value>Зображення Windows Metafile</value>
+	</data>
+	<data name="Zoom In">
+		<value>Ближче</value>
+	</data>
+	<data name="Zoom Out">
+		<value>Далі</value>
+	</data>
+    	<data name="Close">
+		<value>Закрити</value>
+	</data>
+</root>
